@@ -13,5 +13,5 @@ $ mvn package
 Ejemplos:
 
  - [Grep](https://github.com/DVentas/MapReduce-Examples/tree/master/grep)
- - [TopKWords](https://github.com/DVentas/MapReduce-Examples/tree/master/TopKWords)
- - [NGram](https://github.com/DVentas/MapReduce-Examples/tree/master/NGram)
+ - [TopKWords](https://github.com/DVentas/MapReduce-Examples/tree/master/topKWords)
+ - [NGram](https://github.com/DVentas/MapReduce-Examples/tree/master/nGram)
